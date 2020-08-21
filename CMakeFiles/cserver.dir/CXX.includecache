@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/nazarpotipaka/CLionProjects/cserver/App/Kernel.cpp
+cstdio
+-
+cstring
+-
+zconf.h
+-
+iostream
+-
+arpa/inet.h
+-
+Kernel.h
+/Users/nazarpotipaka/CLionProjects/cserver/App/Kernel.h
+../Deps/Request.h
+/Users/nazarpotipaka/CLionProjects/cserver/Deps/Request.h
+
+/Users/nazarpotipaka/CLionProjects/cserver/App/Kernel.h
+netinet/in.h
+-
+stdexcept
+-
+
+/Users/nazarpotipaka/CLionProjects/cserver/Deps/Request.h
+string
+-
+map
+-
+vector
+-
+iostream
+-
+

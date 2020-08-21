@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/nazarpotipaka/CLionProjects/cserver/main.cpp
+iostream
+-
+sys/socket.h
+-
+netinet/in.h
+-
+zconf.h
+-
+

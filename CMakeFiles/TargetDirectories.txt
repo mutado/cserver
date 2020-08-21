@@ -1,0 +1,3 @@
+/Users/nazarpotipaka/CLionProjects/cserver/CMakeFiles/rebuild_cache.dir
+/Users/nazarpotipaka/CLionProjects/cserver/CMakeFiles/edit_cache.dir
+/Users/nazarpotipaka/CLionProjects/cserver/CMakeFiles/cserver.dir

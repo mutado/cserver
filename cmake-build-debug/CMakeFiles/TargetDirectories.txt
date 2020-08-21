@@ -1,0 +1,3 @@
+/Users/nazarpotipaka/CLionProjects/cserver/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/nazarpotipaka/CLionProjects/cserver/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nazarpotipaka/CLionProjects/cserver/cmake-build-debug/CMakeFiles/cserver.dir
