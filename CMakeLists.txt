@@ -3,4 +3,4 @@ project(cserver)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(cserver main.cpp App/Kernel.cpp App/Kernel.h Deps/Request.cpp Deps/Request.h Deps/Utils.cpp Deps/Utils.h)
+add_executable(cserver main.cpp App/Kernel.cpp App/Kernel.h Deps/Request.cpp Deps/Request.h Deps/Utils.cpp Deps/Utils.h Deps/Router.cpp Deps/Router.h Deps/Response.cpp Deps/Response.h Deps/RouteParams.h)

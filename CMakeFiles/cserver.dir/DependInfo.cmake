@@ -6,6 +6,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_CHECK_CXX
   "/Users/nazarpotipaka/CLionProjects/cserver/App/Kernel.cpp" "/Users/nazarpotipaka/CLionProjects/cserver/CMakeFiles/cserver.dir/App/Kernel.cpp.o"
   "/Users/nazarpotipaka/CLionProjects/cserver/Deps/Request.cpp" "/Users/nazarpotipaka/CLionProjects/cserver/CMakeFiles/cserver.dir/Deps/Request.cpp.o"
+  "/Users/nazarpotipaka/CLionProjects/cserver/Deps/Response.cpp" "/Users/nazarpotipaka/CLionProjects/cserver/CMakeFiles/cserver.dir/Deps/Response.cpp.o"
+  "/Users/nazarpotipaka/CLionProjects/cserver/Deps/Router.cpp" "/Users/nazarpotipaka/CLionProjects/cserver/CMakeFiles/cserver.dir/Deps/Router.cpp.o"
   "/Users/nazarpotipaka/CLionProjects/cserver/Deps/Utils.cpp" "/Users/nazarpotipaka/CLionProjects/cserver/CMakeFiles/cserver.dir/Deps/Utils.cpp.o"
   "/Users/nazarpotipaka/CLionProjects/cserver/main.cpp" "/Users/nazarpotipaka/CLionProjects/cserver/CMakeFiles/cserver.dir/main.cpp.o"
   )

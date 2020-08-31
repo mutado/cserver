@@ -92,6 +92,21 @@
 		<Unit filename="/Users/nazarpotipaka/CLionProjects/cserver/Deps/Request.h">
 			<Option target="cserver"/>
 		</Unit>
+		<Unit filename="/Users/nazarpotipaka/CLionProjects/cserver/Deps/Response.cpp">
+			<Option target="cserver"/>
+		</Unit>
+		<Unit filename="/Users/nazarpotipaka/CLionProjects/cserver/Deps/Response.h">
+			<Option target="cserver"/>
+		</Unit>
+		<Unit filename="/Users/nazarpotipaka/CLionProjects/cserver/Deps/RouteParams.h">
+			<Option target="cserver"/>
+		</Unit>
+		<Unit filename="/Users/nazarpotipaka/CLionProjects/cserver/Deps/Router.cpp">
+			<Option target="cserver"/>
+		</Unit>
+		<Unit filename="/Users/nazarpotipaka/CLionProjects/cserver/Deps/Router.h">
+			<Option target="cserver"/>
+		</Unit>
 		<Unit filename="/Users/nazarpotipaka/CLionProjects/cserver/Deps/Utils.cpp">
 			<Option target="cserver"/>
 		</Unit>

@@ -197,6 +197,60 @@ Deps/Request.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/cserver.dir/build.make CMakeFiles/cserver.dir/Deps/Request.cpp.s
 .PHONY : Deps/Request.cpp.s
 
+Deps/Response.o: Deps/Response.cpp.o
+
+.PHONY : Deps/Response.o
+
+# target to build an object file
+Deps/Response.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cserver.dir/build.make CMakeFiles/cserver.dir/Deps/Response.cpp.o
+.PHONY : Deps/Response.cpp.o
+
+Deps/Response.i: Deps/Response.cpp.i
+
+.PHONY : Deps/Response.i
+
+# target to preprocess a source file
+Deps/Response.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cserver.dir/build.make CMakeFiles/cserver.dir/Deps/Response.cpp.i
+.PHONY : Deps/Response.cpp.i
+
+Deps/Response.s: Deps/Response.cpp.s
+
+.PHONY : Deps/Response.s
+
+# target to generate assembly for a file
+Deps/Response.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cserver.dir/build.make CMakeFiles/cserver.dir/Deps/Response.cpp.s
+.PHONY : Deps/Response.cpp.s
+
+Deps/Router.o: Deps/Router.cpp.o
+
+.PHONY : Deps/Router.o
+
+# target to build an object file
+Deps/Router.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cserver.dir/build.make CMakeFiles/cserver.dir/Deps/Router.cpp.o
+.PHONY : Deps/Router.cpp.o
+
+Deps/Router.i: Deps/Router.cpp.i
+
+.PHONY : Deps/Router.i
+
+# target to preprocess a source file
+Deps/Router.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cserver.dir/build.make CMakeFiles/cserver.dir/Deps/Router.cpp.i
+.PHONY : Deps/Router.cpp.i
+
+Deps/Router.s: Deps/Router.cpp.s
+
+.PHONY : Deps/Router.s
+
+# target to generate assembly for a file
+Deps/Router.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cserver.dir/build.make CMakeFiles/cserver.dir/Deps/Router.cpp.s
+.PHONY : Deps/Router.cpp.s
+
 Deps/Utils.o: Deps/Utils.cpp.o
 
 .PHONY : Deps/Utils.o
@@ -266,6 +320,12 @@ help:
 	@echo "... Deps/Request.o"
 	@echo "... Deps/Request.i"
 	@echo "... Deps/Request.s"
+	@echo "... Deps/Response.o"
+	@echo "... Deps/Response.i"
+	@echo "... Deps/Response.s"
+	@echo "... Deps/Router.o"
+	@echo "... Deps/Router.i"
+	@echo "... Deps/Router.s"
 	@echo "... Deps/Utils.o"
 	@echo "... Deps/Utils.i"
 	@echo "... Deps/Utils.s"
